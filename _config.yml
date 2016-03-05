@@ -1,6 +1,6 @@
 name: PeoplePurposeImpact
 favicon: null
-layout_spectrum: 0.6413629564922303
+layout_spectrum: 0.49876
 typography_spectrum: 0.603891302831471
 title: PeoplePurposeImpact
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.9116149742621928
-  lightness: 0.9417885218281299
-  saturation: 0.5411784341558814
+    - '#505050'
+    - '#ff0000'
+    - '#ffffff'
+    - '#ff9b97'
+    - '#ff5550'
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.029344406677410007
 purpose: []
